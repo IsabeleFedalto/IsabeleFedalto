@@ -13,20 +13,19 @@
 </div>
 
 <p align="justify">
-  Meu nome é <strong> Isabele, tenho 19 anos, </strong> sou do Paraná e estou cursando o quarto período de Engenharia de Software. Sou apaixonada pelo que faço! 
+  Meu nome é <strong>Isabele, tenho 19 anos, estou cursando o quarto período de Engenharia de Software na UP.  </strong>Sou apaixonada por tecnologia, programação e bons desafios!
   <br><br>
-  No meu GitHub, compartilho projetos acadêmicos e pessoais, explorando diferentes áreas. Acredito que a combinação de lógica, criatividade e um bom design é fundamental para construir softwares que realmente façam a diferença. 
+  Tenho conhecimentos em C, Java, Python, HTML, CSS, JavaScript e SQL. No meu GitHub, compartilho projetos acadêmicos e pessoais que demonstram minha evolução e minhas habilidades.
   <br><br>
-  Busco sempre novos aprendizados e desafios para aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+  Gosto de pensar de maneira lógica e buscar soluções eficientes para diferentes problemas. Estou sempre em busca de novos aprendizados e oportunidades para evoluir. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+  <br><br>
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/isabele-fedalto-aranha-5464b12ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=59a4ae" alt="LinkedIn"/></a>
 </div>
- <br>
- <br>
-<h2 align="center"><span style="color: #FF69B4;">Tecnologias</span></h2>
 
+<h2 align="center"><span style="color: #FF69B4;">Tecnologias</span></h2>
 <div align="center">
 <img 
     alt="HTML"
